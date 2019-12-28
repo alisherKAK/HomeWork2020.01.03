@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>ASP.NET</h1>
+    <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
+    <p><a href="https://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <form id="form-putOn">
+            <p>Money: </p>
+            <input type="text" name="money" value="" id="txt-money" />
+            <input type="button" name="submit" value="Put on" id="btn-putOn" />
+        </form>
+    </div>
+    <div class="col-md-4">
+        <p>MoneyBox: </p>
+        <p id="p-moneyBox"></p>
+        <input type="button" name="name" value="Get Amount" id="btn-getMoneyAmount" />
+    </div>
+</div>
+
+<script src="~/Scripts/MoneyBox.js"></script>

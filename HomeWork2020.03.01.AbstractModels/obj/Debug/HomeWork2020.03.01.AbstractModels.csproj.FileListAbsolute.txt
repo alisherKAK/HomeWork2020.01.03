@@ -1,0 +1,5 @@
+S:\VisualStudio\ASP\HomeWork2020.03.01\HomeWork2020.03.01.AbstractModels\bin\Debug\HomeWork2020.03.01.AbstractModels.dll
+S:\VisualStudio\ASP\HomeWork2020.03.01\HomeWork2020.03.01.AbstractModels\bin\Debug\HomeWork2020.03.01.AbstractModels.pdb
+S:\VisualStudio\ASP\HomeWork2020.03.01\HomeWork2020.03.01.AbstractModels\obj\Debug\HomeWork2020.03.01.AbstractModels.csprojAssemblyReference.cache
+S:\VisualStudio\ASP\HomeWork2020.03.01\HomeWork2020.03.01.AbstractModels\obj\Debug\HomeWork2020.03.01.AbstractModels.dll
+S:\VisualStudio\ASP\HomeWork2020.03.01\HomeWork2020.03.01.AbstractModels\obj\Debug\HomeWork2020.03.01.AbstractModels.pdb

@@ -1,0 +1,7 @@
+S:\VisualStudio\ASP\HomeWork2020.03.01\HomeWork2020.03.01.Services\bin\Debug\HomeWork2020.03.01.Services.dll
+S:\VisualStudio\ASP\HomeWork2020.03.01\HomeWork2020.03.01.Services\bin\Debug\HomeWork2020.03.01.Services.pdb
+S:\VisualStudio\ASP\HomeWork2020.03.01\HomeWork2020.03.01.Services\bin\Debug\HomeWork2020.03.01.AbstractModels.dll
+S:\VisualStudio\ASP\HomeWork2020.03.01\HomeWork2020.03.01.Services\bin\Debug\HomeWork2020.03.01.AbstractModels.pdb
+S:\VisualStudio\ASP\HomeWork2020.03.01\HomeWork2020.03.01.Services\obj\Debug\HomeWork2020.03.01.Services.csproj.CopyComplete
+S:\VisualStudio\ASP\HomeWork2020.03.01\HomeWork2020.03.01.Services\obj\Debug\HomeWork2020.03.01.Services.dll
+S:\VisualStudio\ASP\HomeWork2020.03.01\HomeWork2020.03.01.Services\obj\Debug\HomeWork2020.03.01.Services.pdb
